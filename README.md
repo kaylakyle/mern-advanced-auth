@@ -1,4 +1,4 @@
-<h1 align="center">Advanced
+<h1 align="center">
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
