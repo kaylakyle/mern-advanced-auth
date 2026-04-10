@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Auth Tutorial
+<h1 align="center">Advanced
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
